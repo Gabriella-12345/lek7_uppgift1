@@ -1,0 +1,14 @@
+.boxgrid{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr ;
+    grid-template-rows: 1fr 4fr;
+    
+}
+h1{
+    border:solid black 2px;
+    text-align: center;
+
+}
+.bild{
+    border: solid black 2px;
+}
